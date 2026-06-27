@@ -14,7 +14,7 @@
 - 💻 **Full Stack Web Developer** building scalable and dynamic applications
 - 🧠 Active problem solver with a strong focus on **Data Structures & Algorithms**
 - 💡 Passionate about modern web technologies and continuous learning
-- 📧 Reach me: **rrdebug7@gmail.com**
+- 📧 Reach me: **rishuraj.jha19@gmail.com**
 
 ---
 
@@ -62,7 +62,7 @@
 ## 🧠 Competitive Programming & Logic
 
 <div align="center">
-  <a href="https://leetcode.com/u/RishuRaj_X/">
+  <a href="https://leetcode.com/u/_RishuRajjha/">
     <img src="https://leetcard.jacoblin.cool/RishuRaj_X?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
