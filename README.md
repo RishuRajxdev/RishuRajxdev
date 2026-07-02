@@ -63,7 +63,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/_RishuRajjha/">
-    <img src="https://leetcard.jacoblin.cool/RishuRaj_X?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/_Rishurajjha?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
